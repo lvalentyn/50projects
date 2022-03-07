@@ -1,3 +1,3 @@
 |  #  | Code                                                                                                              | Demo                                                                         |
 | :-: | ------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/lvalentyn/50projects/tree/master/expandingCards)                             | [Demo](https://lvalentyn.github.io/50projects/expandingCards/)               |
+| 01  | [Expanding Cards](https://github.com/lvalentyn/50projects/tree/master/expandingCards){:target="_blank"}                             | [Demo](https://lvalentyn.github.io/50projects/expandingCards/){:target="_blank"}               |
