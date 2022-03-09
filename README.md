@@ -3,3 +3,4 @@
 | 01  | [Expanding Cards](https://github.com/lvalentyn/50projects/tree/master/expandingCards)            | [Demo](https://lvalentyn.github.io/50projects/expandingCards/)           |
 | 02  | [Progress Steps](https://github.com/lvalentyn/50projects/tree/master/progressSteps)              | [Demo](https://lvalentyn.github.io/50projects/progressSteps/)            |
 | 03  | [Rotating Navigation](https://github.com/lvalentyn/50projects/tree/master/rotatingNavigation)    | [Demo](https://lvalentyn.github.io/50projects/rotatingNavigation/)       |
+| 04  | [Hidden Search](https://github.com/lvalentyn/50projects/tree/master/hiddenSearch)                | [Demo](https://lvalentyn.github.io/50projects/hiddenSearch/)             |
